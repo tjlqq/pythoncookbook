@@ -1,0 +1,5 @@
+this is the first line content typing in...  
+我是从键盘输入的内容，准备写入到文件中.  
+这是第三行。  
+这是第四行。  
+这是第五行
